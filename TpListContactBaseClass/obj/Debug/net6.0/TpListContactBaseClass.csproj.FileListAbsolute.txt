@@ -1,0 +1,5 @@
+C:\ReposM2i\First-repository\CSharp\IntroductionPOO\TpListContactBaseClass\obj\Debug\net6.0\TpListContactBaseClass.csproj.AssemblyReference.cache
+C:\ReposM2i\First-repository\CSharp\IntroductionPOO\TpListContactBaseClass\obj\Debug\net6.0\TpListContactBaseClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReposM2i\First-repository\CSharp\IntroductionPOO\TpListContactBaseClass\obj\Debug\net6.0\TpListContactBaseClass.AssemblyInfoInputs.cache
+C:\ReposM2i\First-repository\CSharp\IntroductionPOO\TpListContactBaseClass\obj\Debug\net6.0\TpListContactBaseClass.AssemblyInfo.cs
+C:\ReposM2i\First-repository\CSharp\IntroductionPOO\TpListContactBaseClass\obj\Debug\net6.0\TpListContactBaseClass.csproj.CoreCompileInputs.cache
